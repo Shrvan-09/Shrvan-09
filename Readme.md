@@ -9,10 +9,9 @@
 - **Big Data:** Apache Spark, Hadoop, and MongoDB  
 - **Data Science:** Machine learning, data analysis, and predictive modeling  
 - **Database Management:** MySQL, MongoDB, and REST API integration  
-- **Software Development:** Java, Python, and PHP  
+- **Software Development:** Java, Python 
 
 ### 🎯 **Currently Working On:**  
-- 🚓 **Crime Prediction System** using Apache Spark and BI tools  
 - 🎧 **Music Recommendation System** with big data technologies  
 - ✈️ **Flight Booking Management System** using the MERN stack  
 
