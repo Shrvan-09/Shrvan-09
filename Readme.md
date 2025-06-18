@@ -11,8 +11,7 @@
 - **Database Management:** MySQL, MongoDB, and REST API integration  
 - **Software Development:** Java, Python 
 
-### 🎯 **Currently Working On:**  
-- 🎧 **Music Recommendation System** with big data technologies  
+### 🎯 **Currently Working On:**    
 - ✈️ **Flight Booking Management System** using the MERN stack  
 
 ### 🌱 **Always eager to explore new technologies and solve complex problems!**  
